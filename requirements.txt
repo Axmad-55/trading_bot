@@ -1,4 +1,4 @@
 pyTelegramBotAPI
-yfinance --upgrade
+yfinance
 pandas
 flask
