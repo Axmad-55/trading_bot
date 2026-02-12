@@ -1,4 +1,0 @@
-pyTelegramBotAPI
-yfinance
-pandas
-flask
